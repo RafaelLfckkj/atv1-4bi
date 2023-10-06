@@ -1,0 +1,32 @@
+.primeiro{
+    border: 1px solid red;
+    width: 110px;
+    height: 110px;
+    margin: 70px;
+    padding: 80px;
+}
+
+.segunda{
+    border: 1px solid blue;
+    width: 500px;
+    height: 150px;
+    margin: 30px;
+    padding: 50px;
+
+}
+
+.terceira{
+    border: 1px solid green;
+    margin: 50px;
+    height: 100px;
+    width: 100px;
+    padding: 100px;
+}
+
+.quarta{
+    border: 1px solid yellow;
+    width: 650px;
+    padding: 70px;
+    margin: 40px;
+    height: 90px;
+}
